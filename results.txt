@@ -1,0 +1,35 @@
+NOTE: all these numbers should be taken as relative times and not absolute ones
+as they are not from a clearly defined test data set and the numbers of runs
+are different in the different tests.
+
+Instructions:
+
+Serialize time: 3.602956533432
+Unserialize time: 4.2630693912506
+JSON encode time: 1.7658956050873
+JSON decode time: 4.6050662994385
+DokuWiki JSON encode time: 86.75674033165
+DokuWiki JSON decode time: 992.01678609848
+
+
+Meta:
+
+Serialize time: 0.27270412445068
+Unserialize time: 0.34720993041992
+JSON encode time: 0.29896521568298
+JSON decode time: 0.64708852767944
+DokuWiki JSON encode time: 17.241912126541
+DokuWiki JSON decode time: 285.1494204998
+Export time: 0.58441781997681
+Import time: 0.75259137153625
+
+wiki:syntax metadata:
+
+Serialize: 0.059741020202637
+Unserialize: 0.06850004196167
+JSON encode: 0.064775943756104
+JSON decode: 0.13446497917175
+DokuWiki JSON encode: 3.2903959751129
+DokuWiki JSON decode: 75.45969414711
+Export: 0.16444897651672
+Import: 0.22939586639404
